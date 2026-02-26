@@ -45,3 +45,11 @@ The following metrics are analyzed:
 - Power BI (next development step)
 
 ## Project Structure
+
+## Key Insights
+This section will be continuously updated as the analysis evolves.  
+Initial findings will focus on revenue distribution, profitability patterns, and sales trends to support strategic decision-making.
+
+## Author
+Andreza Costa  
+Junior Data Analyst | Business Analysis | Machine Learning  
