@@ -53,7 +53,7 @@ These metrics support performance evaluation and strategic decision-making.
 
 ## Project Structure
 
-business-data-analysis
+```business-data-analysis
 │
 ├── README.md
 ├── notebooks/
@@ -65,7 +65,7 @@ business-data-analysis
 │   ├── revenue_by_region.png
 │   ├── profit_by_category.png
 │   ├── monthly_sales.png
-│   └── top_products.png
+│   └── top_products.png```
 
 ## Executive Insights
 
