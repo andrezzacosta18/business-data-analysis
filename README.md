@@ -52,7 +52,7 @@ These metrics support performance evaluation and strategic decision-making.
 * Power BI (next development step for dashboard visualization)
 
 ## Project Structure
-
+```
 business-data-analysis
 │
 ├── README.md
@@ -66,7 +66,7 @@ business-data-analysis
 │   ├── profit_by_category.png
 │   ├── monthly_sales.png
 │   └── top_products.png
-
+```
 ## Executive Insights
 
 ### Business Performance Overview
