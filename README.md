@@ -1,31 +1,47 @@
 # Business Data Analysis Project
 
 ## Objective
-This project simulates a real business scenario where data is analyzed to support decision-making, identify trends, and build predictive models.
+This project simulates a real-world business scenario in which sales data is analyzed to support decision-making, identify trends, and generate strategic insights.
 
-The goal is to demonstrate practical data analysis and business intelligence skills applied to real-world problems.
+The main goal is to demonstrate practical skills in data analysis, business intelligence, and predictive modeling using tools commonly applied in modern data-driven organizations.
 
-## Project Structure
-- Data cleaning and preparation
-- Exploratory data analysis
-- Business insights generation
-- Visualization of KPIs
-- Predictive modeling
+## Project Scope
+The analysis follows a structured analytical workflow:
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Power BI (next step)
+- Data cleaning and preparation  
+- Exploratory data analysis (EDA)  
+- KPI calculation and visualization  
+- Business insight generation  
+- Predictive modeling for sales forecasting  
+
+This project replicates how a data analyst supports business stakeholders through data-driven insights.
 
 ## Business Questions
-- Which products generate the most revenue?
-- Which regions perform best?
-- Who are the most valuable customers?
-- How can we predict future sales?
+The analysis aims to answer key business questions:
 
-## Author
-Andreza Costa  
-Junior Data Analyst | Business Analysis | Machine Learning
+- Which products generate the highest revenue?
+- Which regions deliver the best performance?
+- Who are the most valuable customers?
+- What patterns exist in sales over time?
+- Can we predict future sales based on historical data?
+
+## Key Performance Indicators (KPIs)
+The following metrics are analyzed:
+
+- Total revenue
+- Total profit
+- Revenue by region
+- Revenue by category
+- Customer value
+- Sales trends over time
+
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib & Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- GitHub
+- Power BI (next development step)
+
+## Project Structure
