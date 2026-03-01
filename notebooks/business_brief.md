@@ -106,18 +106,100 @@ Financial KPIs:
 
 ---
 
-## Strategic Focus: Profit Optimization
+## 8. Key Analytical Findings
 
-The objective is to diagnose structural margin erosion and identify financial optimization levers.
+### 8.1 Revenue vs Margin Imbalance
 
-This analysis does not prioritize revenue growth.
+Although total revenue reached approximately $2.29M, the overall profit margin remains at ~12.5%.
 
-Instead, it focuses on:
+This indicates that revenue growth alone does not guarantee financial efficiency. Margin optimization is required to improve capital performance.
 
-- Increasing profitability efficiency
-- Reducing margin leakage
-- Improving pricing governance
-- Identifying financially risky products
-- Supporting sustainable financial growth
+---
 
-The final outcome should provide actionable recommendations to improve overall margin without increasing sales volume.
+### 8.2 Structural Category Margin Discrepancy
+
+Margin performance differs significantly by category:
+
+- **Technology**: ~17.4%  
+- **Office Supplies**: ~17.0%  
+- **Furniture**: ~2.5%  
+
+Furniture represents a structural profitability risk. Despite generating substantial revenue, it contributes disproportionately low profit.
+
+This suggests potential issues in:
+
+- Pricing strategy  
+- Cost structure  
+- Discount policy  
+- Supply chain efficiency  
+
+---
+
+### 8.3 Discount Sensitivity Impact
+
+Preliminary analysis suggests a negative relationship between discount intensity and profit margin.
+
+Higher discount levels appear to compress margins, particularly in already low-margin categories.
+
+This may indicate that discounting is being applied without profitability control mechanisms.
+
+---
+
+### 8.4 Product-Level Margin Risk
+
+Certain products generate high revenue but operate at minimal or negative margin.
+
+These products:
+
+- Inflate top-line revenue  
+- Weaken bottom-line performance  
+- Create hidden financial leakage  
+
+Such items require pricing review or supplier renegotiation.
+
+---
+
+### 8.5 Regional Profitability Stability
+
+Revenue appears relatively balanced across regions.
+
+However, margin consistency must be monitored to ensure geographic performance does not mask local inefficiencies.
+
+No extreme regional dependency risk was identified.
+
+---
+
+## 9. Financial Impact Simulation
+
+If overall margin increases from **12.5% to 15%**, assuming revenue remains constant:
+
+- Revenue: **$2,297,200**
+- Current Profit (~12.5%): ≈ **$286,000**
+- Projected Profit (15%): ≈ **$344,000**
+
+**Potential incremental profit: ~ $58,000**
+
+This demonstrates that small margin improvements generate significant financial impact without revenue growth.
+
+---
+
+## 10. Executive Recommendations
+
+1. Conduct pricing review in the Furniture category.
+2. Implement margin-based discount governance.
+3. Prioritize high-margin categories for expansion.
+4. Identify and reprice low-margin high-volume products.
+5. Monitor category-level profitability monthly.
+6. Shift performance KPIs from revenue-only to margin-adjusted metrics.
+
+---
+
+## Final Strategic Conclusion
+
+The company demonstrates strong revenue generation but operates with structural margin inefficiencies.
+
+The main opportunity is not revenue expansion, but profitability optimization.
+
+Margin governance, pricing strategy adjustments, and discount discipline represent the primary financial improvement levers.
+
+This analysis provides a structured foundation for margin-driven strategic decision-making.
