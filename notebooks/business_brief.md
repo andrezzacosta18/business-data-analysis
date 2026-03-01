@@ -194,12 +194,90 @@ This demonstrates that small margin improvements generate significant financial 
 
 ---
 
-## Final Strategic Conclusion
+## 11. Limitations & Further Analysis
 
-The company demonstrates strong revenue generation but operates with structural margin inefficiencies.
+### 11.1 Data Limitations
 
-The main opportunity is not revenue expansion, but profitability optimization.
+This analysis is based solely on historical transactional sales data.
 
-Margin governance, pricing strategy adjustments, and discount discipline represent the primary financial improvement levers.
+The dataset does not include:
 
-This analysis provides a structured foundation for margin-driven strategic decision-making.
+- Detailed cost structure breakdown
+- Marketing spend data
+- Operational costs (logistics, warehousing, returns)
+- Customer acquisition cost
+- Inventory turnover metrics
+
+Therefore, margin conclusions are based on recorded profit values, without deeper cost attribution analysis.
+
+---
+
+### 11.2 Discount Impact Granularity
+
+While discount impact was evaluated at aggregated levels, a more advanced elasticity model could be applied to measure:
+
+- Revenue elasticity vs discount changes
+- Profit sensitivity per category
+- Optimal discount thresholds
+
+Future analysis could include regression modeling to estimate discount elasticity.
+
+---
+
+### 11.3 Seasonality & Forecasting Enhancement
+
+The baseline forecasting approach uses historical trend patterns.
+
+Further improvement could include:
+
+- Time series decomposition
+- ARIMA or Prophet models
+- External economic indicators
+- Promotion calendar integration
+
+This would provide stronger predictive accuracy for revenue planning.
+
+---
+
+### 11.4 Product Portfolio Optimization
+
+Future analysis may incorporate:
+
+- ABC classification (Pareto analysis)
+- Contribution margin segmentation
+- Portfolio rationalization modeling
+
+This would support strategic product elimination or repositioning decisions.
+
+---
+
+### 11.5 Customer Lifetime Value (CLV)
+
+The dataset allows customer-level aggregation, but a more advanced customer strategy would require:
+
+- Recency, Frequency, Monetary (RFM) modeling
+- Churn probability estimation
+- Lifetime value modeling
+
+This would strengthen long-term profitability strategy.
+
+---
+
+## Strategic Next Steps
+
+1. Implement margin-based performance monitoring dashboard.
+2. Introduce pricing governance for low-margin categories.
+3. Conduct product-level profitability review.
+4. Develop structured discount policy framework.
+5. Integrate predictive margin modeling into financial planning.
+
+---
+
+## Executive Closing Statement
+
+This analysis highlights that revenue growth alone does not guarantee financial sustainability.
+
+The strategic opportunity lies in margin governance, portfolio optimization, and disciplined pricing strategy.
+
+By focusing on profitability efficiency rather than top-line expansion, the company can improve financial resilience and long-term value creation.
+
