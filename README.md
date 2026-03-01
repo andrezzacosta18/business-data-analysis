@@ -106,13 +106,11 @@ Recommended actions:
 
 ### Risk and Opportunity Detection
 Some products generate high revenue but low profit margins. These items may create hidden financial risks and should be reviewed for pricing strategy, cost structure, or supplier negotiation.
-
 Addressing these issues can significantly improve profitability without increasing sales volume.
 
 ## Strategic Conclusion
 This project demonstrates how data analysis can transform raw sales data into actionable business insights. By identifying revenue drivers, profitability patterns, and customer value, organizations can make informed decisions to improve performance and support sustainable growth.
 
 ## Author
-
 Andreza Costa
 Data Analyst | Business Analysis | Machine Learning
