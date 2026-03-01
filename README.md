@@ -1,116 +1,262 @@
-# Business Data Analysis Project
+# Retail Profit Optimization & Margin Risk Analysis
 
 ## Objective
 
-This project simulates a real-world business scenario where sales data is analyzed to support decision-making, identify trends, and generate strategic insights.
+This project simulates a real-world retail scenario where sales data is analyzed to support strategic decision-making, identify structural profitability risks, and optimize financial performance.
 
-The main goal is to demonstrate practical skills in data analysis, business intelligence, and predictive modeling using tools commonly applied in modern data-driven organizations.
+The primary objective is to demonstrate how data analysis can move beyond revenue tracking and focus on sustainable margin optimization.
+
+---
+
+## Business Context
+
+The dataset represents a multi-category retail company operating across multiple U.S. regions.
+
+Although the company generates over $2.3M in revenue, the central question is:
+
+**Is this growth financially sustainable?**
+
+The strategic focus of this analysis is profitability diagnostics and margin risk detection.
+
+---
 
 ## Project Scope
 
-The analysis follows a structured analytical workflow commonly used by data analysts in business environments:
+The analysis follows a structured workflow aligned with professional data analysis practices:
 
-* Data cleaning and preparation
-* Exploratory data analysis (EDA)
-* KPI calculation and visualization
-* Business insight generation
-* Predictive modeling for sales forecasting
+- Data cleaning and preparation (Python)
+- Exploratory Data Analysis (EDA)
+- KPI calculation
+- Profitability diagnostics
+- Customer concentration analysis (Pareto)
+- Margin risk detection
+- Executive dashboard creation (Power BI)
 
-This project replicates how a data analyst supports stakeholders by transforming raw data into actionable business insights.
+---
 
-## Business Questions
+## Core Business Questions
 
-The analysis aims to answer key business questions such as:
+- Is revenue growth aligned with profitability?
+- Which categories drive margin erosion?
+- Are discounts impacting financial sustainability?
+- Is revenue concentrated among a small customer base?
+- What structural financial risks exist?
+- Can revenue be forecasted using historical trends?
 
-* Which products generate the highest revenue?
-* Which regions deliver the best performance?
-* Who are the most valuable customers?
-* What patterns exist in sales over time?
-* Can future sales be predicted based on historical data?
+---
 
 ## Key Performance Indicators (KPIs)
 
-The following KPIs are explored:
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Revenue by Region
+- Profit Margin by Category
+- Customer Revenue Contribution
+- Monthly Revenue Trend
+- Margin Risk Indicators
 
-* Total revenue
-* Total profit
-* Revenue by region
-* Revenue by category
-* Customer value
-* Sales trends over time
-
-These metrics support performance evaluation and strategic decision-making.
+---
 
 ## Tools & Technologies
 
-* Python
-* Pandas
-* Matplotlib & Seaborn
-* Scikit-learn
-* Jupyter Notebook
-* GitHub
-* Power BI (next development step for dashboard visualization)
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Scikit-learn (baseline forecasting)
+- Jupyter Notebook
+- Power BI (Executive Dashboard)
+- Git & GitHub
+
+---
 
 ## Project Structure
-```
+# Retail Profit Optimization & Margin Risk Analysis
+
+## Objective
+
+This project simulates a real-world retail scenario where sales data is analyzed to support strategic decision-making, identify structural profitability risks, and optimize financial performance.
+
+The primary objective is to demonstrate how data analysis can move beyond revenue tracking and focus on sustainable margin optimization.
+
+---
+
+## Business Context
+
+The dataset represents a multi-category retail company operating across multiple U.S. regions.
+
+Although the company generates over $2.3M in revenue, the central question is:
+
+**Is this growth financially sustainable?**
+
+The strategic focus of this analysis is profitability diagnostics and margin risk detection.
+
+---
+
+## Project Scope
+
+The analysis follows a structured workflow aligned with professional data analysis practices:
+
+- Data cleaning and preparation (Python)
+- Exploratory Data Analysis (EDA)
+- KPI calculation
+- Profitability diagnostics
+- Customer concentration analysis (Pareto)
+- Margin risk detection
+- Executive dashboard creation (Power BI)
+
+---
+
+## Core Business Questions
+
+- Is revenue growth aligned with profitability?
+- Which categories drive margin erosion?
+- Are discounts impacting financial sustainability?
+- Is revenue concentrated among a small customer base?
+- What structural financial risks exist?
+- Can revenue be forecasted using historical trends?
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Revenue by Region
+- Profit Margin by Category
+- Customer Revenue Contribution
+- Monthly Revenue Trend
+- Margin Risk Indicators
+
+---
+
+## Tools & Technologies
+
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Scikit-learn (baseline forecasting)
+- Jupyter Notebook
+- Power BI (Executive Dashboard)
+- Git & GitHub
+
+---
+
+## Project Structure
+# Retail Profit Optimization & Margin Risk Analysis
+
+## Objective
+
+This project simulates a real-world retail scenario where sales data is analyzed to support strategic decision-making, identify structural profitability risks, and optimize financial performance.
+
+The primary objective is to demonstrate how data analysis can move beyond revenue tracking and focus on sustainable margin optimization.
+
+---
+
+## Business Context
+
+The dataset represents a multi-category retail company operating across multiple U.S. regions.
+
+Although the company generates over $2.3M in revenue, the central question is:
+
+**Is this growth financially sustainable?**
+
+The strategic focus of this analysis is profitability diagnostics and margin risk detection.
+
+---
+
+## Project Scope
+
+The analysis follows a structured workflow aligned with professional data analysis practices:
+
+- Data cleaning and preparation (Python)
+- Exploratory Data Analysis (EDA)
+- KPI calculation
+- Profitability diagnostics
+- Customer concentration analysis (Pareto)
+- Margin risk detection
+- Executive dashboard creation (Power BI)
+
+---
+
+## Core Business Questions
+
+- Is revenue growth aligned with profitability?
+- Which categories drive margin erosion?
+- Are discounts impacting financial sustainability?
+- Is revenue concentrated among a small customer base?
+- What structural financial risks exist?
+- Can revenue be forecasted using historical trends?
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Revenue by Region
+- Profit Margin by Category
+- Customer Revenue Contribution
+- Monthly Revenue Trend
+- Margin Risk Indicators
+
+---
+## Tools & Technologies
+
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- Scikit-learn (baseline forecasting)
+- Jupyter Notebook
+- Power BI (Executive Dashboard)
+- Git & GitHub
+
+---
+## Project Structure
 business-data-analysis
 │
 ├── README.md
+├── business_brief.md
 ├── notebooks/
 │   └── business_analysis.ipynb
+│
 ├── data/
-│   └── raw/
-│       └── sales.csv
+│   ├── raw/
+│   │   └── sales.csv
+│   └── processed/
+│       └── processed_sales.csv
+│
+├── powerbi/
+│   ├── sales_dashboard.pbix
+│   └── images/
+│       └── dashboard/
+│           ├── executive_overview.png
+│           ├── customers_and_product_insights.png
+│           └── customer_concentration_analysis.png
+│
 ├── images/
-│   ├── revenue_by_region.png
-│   ├── profit_by_category.png
-│   ├── monthly_sales.png
-│   └── top_products.png
-```
-## Executive Insights
+│   └── python/
+│
+└── .gitignore
+---
 
-### Business Performance Overview
-The analysis of the sales dataset reveals important patterns in revenue generation, profitability, and customer behavior. These insights can support strategic decision-making and business optimization.
+# Power BI Dashboard
 
-### Revenue Distribution
-Revenue is not evenly distributed across regions and product categories. Some regions concentrate a significantly higher share of total sales, indicating stronger market penetration and customer demand in those areas.
+## Executive Overview
 
-This suggests opportunities to:
-- Expand high-performing regions  
-- Investigate underperforming markets  
-- Optimize regional sales strategies  
+![Executive Overview](powerbi/images/dashboard/executive_overview.png)
 
-### Profitability by Category
-While some product categories generate high revenue, not all of them are equally profitable. Certain categories present lower profit margins, which may indicate high operational costs, aggressive discounting, or pricing inefficiencies.
+This page provides a high-level financial summary including revenue, profit, margin, trend analysis, and regional performance.
 
-This highlights the need to:
-- Review pricing strategies  
-- Evaluate operational and supply costs  
-- Prioritize high-margin categories  
+---
 
-### Sales Trend Over Time
-The monthly revenue trend shows variations that may indicate seasonality or demand fluctuations. Understanding these patterns allows better planning for inventory, marketing campaigns, and resource allocation.
+## Customer & Product Insights
 
-Businesses can use this information to:
-- Anticipate high-demand periods  
-- Adjust stock and logistics  
-- Align marketing strategies with seasonal demand  
+![Customer & Product Insights](powerbi/images/dashboard/customers_and_product_insights.png)
 
-### Customer Value
-A small group of customers contributes disproportionately to total revenue. Identifying and retaining these high-value customers is essential for long-term business sustainability.
+Highlights structural profitability differences across product categories and identifies financial imbalance drivers.
 
-Recommended actions:
-- Implement customer retention strategies  
-- Personalize offers for top customers  
-- Focus on loyalty and long-term value  
+---
 
-### Risk and Opportunity Detection
-Some products generate high revenue but low profit margins. These items may create hidden financial risks and should be reviewed for pricing strategy, cost structure, or supplier negotiation.
-Addressing these issues can significantly improve profitability without increasing sales volume.
+## Customer Concentration Analysis
 
-## Strategic Conclusion
-This project demonstrates how data analysis can transform raw sales data into actionable business insights. By identifying revenue drivers, profitability patterns, and customer value, organizations can make informed decisions to improve performance and support sustainable growth.
-
-## Author
-Andreza Costa
-Data Analyst | Business Analysis | Machine Learning
+![Customer Concentration](powerbi
