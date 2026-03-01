@@ -121,5 +121,5 @@ Highlights structural profitability differences across product categories and id
 
 ## Customer Concentration Analysis
 
-<img width="2080" height="256" alt="image" src="https://github.com/user-attachments/assets/aa1b1682-3795-40c6-bfe8-2a348d8ab5fd" />
+![Customer Concentration](powerbi/images/dashboard/customer_concentration_analysis.png)
 
