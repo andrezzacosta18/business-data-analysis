@@ -71,7 +71,7 @@ The analysis follows a structured workflow aligned with professional data analys
 ---
 
 ## Project Structure
-
+```
 business-data-analysis
 │
 ├── README.md
@@ -97,7 +97,7 @@ business-data-analysis
 │   └── python/
 │
 └── .gitignore
----
+```
 
 ---
 
