@@ -85,3 +85,19 @@ The analysis aims to support strategic decision-making.
 6. Regional comparison
 7. Forecasting baseline
 8. Executive insights
+
+---
+
+## Strategic Focus: Profit Optimization
+
+Although the company generates over $2.29M in revenue, the overall profit margin is approximately 12.5%.
+
+The primary objective of this analysis is to identify structural drivers of margin erosion and propose data-driven strategies to improve profitability without increasing total sales volume.
+
+The focus areas include:
+
+- Discount intensity and its impact on profit
+- Margin variation across product categories
+- Product-level profitability risk
+- Regional margin discrepancies
+- Customer-level profitability distribution
